@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-nafees/static/css/main.9a2c51f0.css",
+    "main.js": "/weather-nafees/static/js/main.f4211e82.js",
+    "index.html": "/weather-nafees/index.html",
+    "main.9a2c51f0.css.map": "/weather-nafees/static/css/main.9a2c51f0.css.map",
+    "main.f4211e82.js.map": "/weather-nafees/static/js/main.f4211e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2c51f0.css",
+    "static/js/main.f4211e82.js"
+  ]
+}
